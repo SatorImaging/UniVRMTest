@@ -5,6 +5,16 @@ This repository merges the following repositories to support non-Windows platfor
 - https://github.com/vrm-c/UniVRMTest
 - https://github.com/gkngkc/UnityStandaloneFileBrowser
 
+
+
+## Download
+
+Apps can be found here.
+
+- https://github.com/SatorImaging/UniVRMTest/releases
+
+
+
 ## License
 
-This repository is licensed under MIT License.
+This software is licensed under the MIT License.
