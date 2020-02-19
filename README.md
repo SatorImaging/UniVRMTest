@@ -1,6 +1,6 @@
-# Overview
+# VRM Viewer for macOS, Linux and Windows
 
-This repository merges the following repositories to support non-Windows platforms.
+This repository consists of the following repositories to support non-Windows platforms.
 
 - https://github.com/vrm-c/UniVRMTest
 - https://github.com/gkngkc/UnityStandaloneFileBrowser
@@ -9,9 +9,9 @@ This repository merges the following repositories to support non-Windows platfor
 
 ## Download
 
-Apps can be found here.
+Released softwares can be downloaded from here.
 
-- https://github.com/SatorImaging/UniVRMTest/releases
+- https://github.com/SatorImaging/VRM-Viewer/releases
 
 
 
