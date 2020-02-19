@@ -82,6 +82,21 @@ namespace VRMViewer
             return ofn.file;
         }
         #endregion
+#else
+        public static string FileDialog(string title, string extension)
+        {
+            string path = null;
+
+            var result  = SFB.StandaloneFileBrowser.OpenFilePanel(title, "", extension, false);
+            if(0 < result.Length && !string.IsNullOrWhiteSpace(result[0]))
+            {
+                path = result[0];
+            }
+
+            return path;
+
+        }
+
 #endif
     }
 }
