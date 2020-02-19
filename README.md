@@ -2,9 +2,8 @@
 
 This repository merges the following repositories to support non-Windows platforms.
 
+- https://github.com/vrm-c/UniVRMTest
 - https://github.com/gkngkc/UnityStandaloneFileBrowser
-- https://github.com/SatorImaging/UniVRMTest
-
 
 ## License
 
